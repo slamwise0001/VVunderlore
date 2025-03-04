@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/digitalgarden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digitalgarden/"}
 ---
 
